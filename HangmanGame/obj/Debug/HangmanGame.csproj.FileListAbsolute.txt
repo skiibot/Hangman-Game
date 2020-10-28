@@ -1,0 +1,7 @@
+D:\Csrp_dev_shafiq\Day2\HangmanGame\bin\Debug\HangmanGame.exe.config
+D:\Csrp_dev_shafiq\Day2\HangmanGame\bin\Debug\HangmanGame.exe
+D:\Csrp_dev_shafiq\Day2\HangmanGame\bin\Debug\HangmanGame.pdb
+D:\Csrp_dev_shafiq\Day2\HangmanGame\obj\Debug\HangmanGame.csproj.CoreCompileInputs.cache
+D:\Csrp_dev_shafiq\Day2\HangmanGame\obj\Debug\HangmanGame.exe
+D:\Csrp_dev_shafiq\Day2\HangmanGame\obj\Debug\HangmanGame.pdb
+D:\Csrp_dev_shafiq\Day2\HangmanGame\obj\Debug\HangmanGame.csprojAssemblyReference.cache
